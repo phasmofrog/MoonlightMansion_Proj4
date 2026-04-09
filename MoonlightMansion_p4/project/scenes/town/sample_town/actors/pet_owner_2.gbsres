@@ -1,35 +1,37 @@
 {
   "_resourceType": "actor",
-  "id": "c73c195d-5cc8-4417-bdb0-b0c55c4b6188",
-  "_index": 2,
-  "symbol": "actor_pet_owner",
-  "prefabId": "",
+  "id": "97086950-d073-458f-a9a5-51cda872295a",
   "name": "Pet Owner",
-  "coordinateType": "tiles",
-  "x": 29,
-  "y": 47,
   "frame": 0,
   "animate": false,
   "spriteSheetId": "52ad34df-f245-4b2a-b94c-a82af1002871",
-  "paletteId": "",
+  "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
   "animSpeed": 15,
+  "paletteId": "",
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
+  "_index": 9,
+  "symbol": "actor_28",
+  "coordinateType": "tiles",
+  "x": 17,
+  "y": 32,
   "script": [
     {
-      "id": "137799a4-c0db-46dd-91c9-36c0e5386e3d",
+      "id": "d68faea1-8cac-4fcd-b619-3c8414f2da71",
       "command": "EVENT_TEXT",
       "args": {
-        "text": "Have you seen my\ncat anywhere?"
+        "text": [
+          "Test for github commit\nignore this :P"
+        ]
       }
     },
     {
-      "id": "ef31c786-4d05-4ec4-9828-0b20bea82a50",
+      "id": "5a2259d4-055d-4546-b4be-55ac932088ea",
       "command": "EVENT_IF",
       "args": {
         "variable": "13",
@@ -42,7 +44,7 @@
       "children": {
         "true": [
           {
-            "id": "a36892fc-7718-4107-b5b5-07b6c5eea254",
+            "id": "99d2b53f-b1a2-48f8-902b-2bcc69d2de20",
             "command": "EVENT_TEXT",
             "args": {
               "text": [
@@ -51,7 +53,7 @@
             }
           },
           {
-            "id": "d63037fd-1207-4d62-a104-170f4c817eeb",
+            "id": "45e51e42-a3ba-496a-9ad0-8e627a9a7dc5",
             "command": "EVENT_SET_VALUE",
             "args": {
               "variable": "0",
@@ -68,7 +70,7 @@
   "startScript": [],
   "updateScript": [
     {
-      "id": "df3086d6-d8de-4585-90ec-86e30e1f6bc0",
+      "id": "3fb2cef0-cc7f-4950-9b04-441ce1768c60",
       "command": "EVENT_WAIT",
       "args": {
         "time": {
@@ -82,7 +84,7 @@
       }
     },
     {
-      "id": "1cdbafd2-f869-4b98-9bfa-c0605295792b",
+      "id": "6740331d-99d2-4b94-9282-bf21b70e27af",
       "command": "EVENT_VARIABLE_MATH",
       "args": {
         "vectorX": "T0",
@@ -95,7 +97,7 @@
       }
     },
     {
-      "id": "fb2cbbea-950c-49da-8b5f-aaf298f8e543",
+      "id": "b2febbd0-f862-40e6-b727-d1662b2ec753",
       "command": "EVENT_SWITCH",
       "args": {
         "variable": "T0",
@@ -185,7 +187,7 @@
       "children": {
         "true0": [
           {
-            "id": "6be1f7d7-c9b8-4b05-a4d7-9e1188c49d1e",
+            "id": "6259ed9c-f710-44f4-ab88-bc4326169bd8",
             "command": "EVENT_ACTOR_MOVE_RELATIVE",
             "args": {
               "actorId": "$self$",
@@ -209,7 +211,7 @@
         ],
         "true1": [
           {
-            "id": "710bbb50-b788-40e3-b475-a8fcd3fa9c26",
+            "id": "c9837e72-bcdc-4093-bc6f-e9878f51b53e",
             "command": "EVENT_ACTOR_MOVE_RELATIVE",
             "args": {
               "actorId": "$self$",
@@ -233,7 +235,7 @@
         ],
         "true2": [
           {
-            "id": "00169b2f-5915-44fb-b3cc-5713e0dea645",
+            "id": "65262d81-95e0-4a26-ae1b-76277d94e10a",
             "command": "EVENT_ACTOR_MOVE_RELATIVE",
             "args": {
               "actorId": "$self$",
@@ -257,7 +259,7 @@
         ],
         "true3": [
           {
-            "id": "6065f155-545f-4ea6-a7f9-c3d16eb2d2b6",
+            "id": "ed8cfa41-61b5-4ef6-bee0-cb63bd563b34",
             "command": "EVENT_ACTOR_MOVE_RELATIVE",
             "args": {
               "actorId": "$self$",
@@ -293,7 +295,7 @@
         "true15": [],
         "false": [
           {
-            "id": "482fc26f-67cd-4e58-a848-a3e50d8122e4",
+            "id": "f6bafc15-8329-4274-bca4-0d8a69378751",
             "command": "EVENT_WAIT",
             "args": {
               "time": {
