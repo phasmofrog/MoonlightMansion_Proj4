@@ -1,12 +1,12 @@
 {
   "_resourceType": "scene",
-  "id": "b8f58b84-d635-4826-bc0d-2022e6c55c67",
-  "_index": 18,
-  "name": "path/Test1",
-  "backgroundId": "d81cb976-dfbb-448d-80de-c1fe2e126c05",
+  "id": "bdb63402-0972-432d-8dc5-20b4523efa2f",
+  "_index": 25,
+  "name": "path/testbg_hallopen",
+  "backgroundId": "c2ed9fd6-5fcc-4644-976c-f3e164016791",
   "tilesetId": "",
-  "width": 80,
-  "height": 36,
+  "width": 36,
+  "height": 18,
   "type": "PLATFORM",
   "colorModeOverride": "none",
   "paletteIds": [
@@ -28,14 +28,14 @@
     "",
     ""
   ],
-  "collisions": "0010a+0f22+002e+0f!001f+0f!00e+0f3+001e+0f!001f+0f13+001d+0f!0031+0f!001d+0f!0031+0f!001d+0f!0031+0f!001d+0f!0031+0f!001d+0f!0015+0f7+003+0f13+001c+0f2+001f+0f!002e+0f2+001f+0f!002e+0f7+001a+0f!002f+0f!001f+0f!0027+0f9+001f+0f!0027+0f!007+0f!001f+0f!0027+0f!007+0f!001f+0f!0019+0fd+00!0f!007+0f!001f+0f!0019+0f!00b+0f!00!0f!0027+0f!0019+0f!00b+0f!00!0f!0027+0f!0019+0f!00b+0f!00!0f!0027+0f!0019+0f!00b+0f!00!0f!0027+0f!0019+0f!00b+0f!00!0f!0027+0f!0019+0f!00b+0f!00!0f!0027+0f!0018+0f2+00b+0fb+007+0fd+00b+0f!0018+0f2+0035+0f!0018+0f2+0035+0f!0018+0f2+0035+0f!0018+0f2+0035+0f!0019+0f!0035+0f!0018+0f34+003+0f!001a+0f3+0010+0f1f+003+0f!004a+0f2+003+0f!004a+0f2+003+0f!004a+0f6+0015+",
+  "collisions": "0fd+009+0f1b+009+0f1b+009+0f1b+005+0f1f+009+0f1b+009+0f1d+005+0f10+009f+0f5+00a0+0fe+007+0f1c+009+0fe+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_19",
-  "x": 2080,
-  "y": 80,
+  "symbol": "scene_26",
+  "x": 2904,
+  "y": 1072,
   "script": [
     {
-      "id": "ebae85a6-a231-4932-bcd6-2fdc59d5d33c",
+      "id": "2552c01c-38b8-470c-b51e-e75b8bdc4199",
       "command": "EVENT_CALL_CUSTOM_EVENT",
       "args": {
         "customEventId": "bc9f67e9-b6f2-4216-b8b6-63505f3b7118",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": "a2162ba2-7a90-4247-abf0-ea65c3c30ac7",
+      "id": "fa8a733a-00d2-4816-be4f-e89aa1b06076",
       "command": "EVENT_MUSIC_PLAY",
       "args": {
         "musicId": "9aac47ff-51d7-48bf-9f15-1ce01b3872a4",
@@ -102,7 +102,7 @@
                       "1"
                     ]
                   },
-                  "id": "a891d824-b2cd-4334-ab15-d93371233fc4"
+                  "id": "70f37b81-f268-431d-a0a4-2db6c9c4764f"
                 }
               ],
               "false": [
@@ -132,15 +132,15 @@
                       "1"
                     ]
                   },
-                  "id": "252108c2-d3ee-4b9c-86fc-84b778b5ff63"
+                  "id": "ebd1b10b-ac8f-4cd6-8166-2ad26dc445e8"
                 }
               ]
             },
-            "id": "07b8c090-d65a-48ae-bbcb-90bddb66cc80"
+            "id": "db5bcb4b-6b7e-48c5-be66-f62615b642a4"
           }
         ]
       },
-      "id": "658d70e3-163b-494b-83b4-52113e59c19d"
+      "id": "0df7b501-ab36-4553-ba5f-c06ec1018a5c"
     }
   ],
   "playerHit1Script": [],

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "989b7ec3-86a7-480d-9e22-d3938dd6de8b",
+  "name": "testbg_zonebc",
+  "symbol": "bg_testbg_zonebc",
+  "tileColors": "",
+  "filename": "testbg_zonebc.png",
+  "width": 54,
+  "height": 36,
+  "imageWidth": 432,
+  "imageHeight": 288
+}

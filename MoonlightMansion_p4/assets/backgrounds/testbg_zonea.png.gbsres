@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "3f1ed3e2-3c7c-454a-88e6-8f89082d94d4",
+  "name": "testbg_zonea",
+  "symbol": "bg_testbg_zonea",
+  "tileColors": "",
+  "filename": "testbg_zonea.png",
+  "width": 64,
+  "height": 36,
+  "imageWidth": 512,
+  "imageHeight": 288
+}
