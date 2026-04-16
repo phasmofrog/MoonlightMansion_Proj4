@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "5e5c75a8-bbc8-4f10-9740-c08447dc6ebf",
+  "name": "leg_pt",
+  "symbol": "sprite_leg_pt",
+  "states": [
+    {
+      "id": "edf04fd8-bf12-4ef0-9d10-2ba6df616fd6",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "5f6e25c4-a71f-431b-af16-f4d39e26d794",
+          "frames": [
+            {
+              "id": "55c20bda-9285-4bdf-826f-a6c94a736ac1",
+              "tiles": [
+                {
+                  "id": "ad7d379d-0d1e-449c-a870-9fa1a2074710",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "026864f4-5666-4b21-803f-d9a7650192fb",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "210af85b-6164-44ad-a4a0-2114421a34c7",
+          "frames": [
+            {
+              "id": "7e9873e5-f226-4b0e-93fd-2e385e9ee53f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "98187e8a-abc3-44c2-8641-e46d171bf471",
+          "frames": [
+            {
+              "id": "74db009d-a8c2-4695-a4bf-eeb99067a4e2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "98298b53-0371-40ea-8a83-7db9441cc8a2",
+          "frames": [
+            {
+              "id": "10af465b-1703-4542-8683-955b48493542",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d92a787f-c3b6-45b4-bab1-dd17f35276e6",
+          "frames": [
+            {
+              "id": "28f1e72d-3e35-49d8-9e5e-343321124031",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bfa1eed8-6062-4452-aca0-c6c1b8bb9741",
+          "frames": [
+            {
+              "id": "e638ed5b-26de-4d3c-aa2c-2cd6a351c768",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f9c48fca-cfda-4c04-9bbb-d0b02b340f42",
+          "frames": [
+            {
+              "id": "a8d1aa83-50e8-4cb4-9463-a0dab0a94bf5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e68c075c-8c76-4dd6-96e0-f0defd5d1a44",
+          "frames": [
+            {
+              "id": "9739fff8-46ad-49ca-be30-ef7c784c9da6",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "leg_pt.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "55d6588025162ce612d9cef842fbc4e47112dafd"
+}

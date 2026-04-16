@@ -81,14 +81,14 @@
                   "id": "a5dddc76-e5fe-424a-9b2b-1ad1834acefb",
                   "command": "EVENT_SWITCH_SCENE",
                   "args": {
-                    "sceneId": "f8f027ef-b818-4038-9eda-0ac477facb41",
+                    "sceneId": "b8f58b84-d635-4826-bc0d-2022e6c55c67",
                     "x": {
                       "type": "number",
-                      "value": 11
+                      "value": 41
                     },
                     "y": {
                       "type": "number",
-                      "value": 12
+                      "value": 29
                     },
                     "direction": "right",
                     "fadeSpeed": "4"
@@ -133,5 +133,6 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": ""
+  "collisions": "",
+  "playerSpriteSheetId": "c0310735-3e7c-4ff1-bcff-b07d818d433b"
 }
