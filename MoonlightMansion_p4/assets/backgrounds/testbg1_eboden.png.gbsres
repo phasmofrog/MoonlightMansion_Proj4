@@ -3,6 +3,7 @@
   "id": "0b8893ce-22ad-4a76-996c-fd66558d4f13",
   "name": "testbg1_eboden",
   "symbol": "sprite_testbg1_eboden",
+  "tileColors": "",
   "states": [
     "d6f6b6cd-46a0-4cbf-ac46-0cad693afc15"
   ],
@@ -20,7 +21,6 @@
   "width": 26,
   "height": 18,
   "checksum": "3f8b021c94aa1bf1744d110f60a4cd36ddec2b81",
-  "tileColors": "",
   "imageWidth": 208,
   "imageHeight": 144
 }

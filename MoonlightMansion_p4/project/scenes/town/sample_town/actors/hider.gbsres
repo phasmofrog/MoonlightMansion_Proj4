@@ -6,7 +6,7 @@
   "prefabId": "",
   "name": "Hider",
   "coordinateType": "tiles",
-  "x": 36,
+  "x": 24,
   "y": 24,
   "frame": 0,
   "animate": false,
