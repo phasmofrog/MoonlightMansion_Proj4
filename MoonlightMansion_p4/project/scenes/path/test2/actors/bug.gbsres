@@ -1,0 +1,31 @@
+{
+  "_resourceType": "actor",
+  "id": "1c655a24-9c90-4185-8a61-90df33d876de",
+  "name": "Bug",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "8e19dbbb-f5e9-4f66-bdad-3530847e27ac",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "1",
+  "collisionExtraFlags": [
+    "solid"
+  ],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_29",
+  "script": [],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 29,
+  "y": 12,
+  "_index": 0
+}

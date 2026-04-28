@@ -1,0 +1,88 @@
+{
+  "_resourceType": "trigger",
+  "id": "abb6bb08-fcdd-4c11-8034-f7c7a54e4e47",
+  "name": "",
+  "prefabId": "",
+  "x": 45,
+  "y": 25,
+  "symbol": "trigger_60",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_IF_ACTOR_RELATIVE_TO_ACTOR",
+      "args": {
+        "actorId": "player",
+        "operation": "down",
+        "otherActorId": "640f0fe1-c4b6-4cfd-b8c9-2a6a8d861fb0",
+        "__collapseElse": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "source",
+              "spriteSheetId": "ec0f660e-c420-43ee-9d1e-6d8e9f320213",
+              "spriteStateId": "",
+              "actorId": "640f0fe1-c4b6-4cfd-b8c9-2a6a8d861fb0",
+              "x": 0,
+              "y": 0,
+              "directionType": "direction",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 255,
+              "lifeTime": 1,
+              "initialOffset": 0,
+              "loopAnim": true,
+              "destroyOnHit": true,
+              "collisionGroup": "1",
+              "collisionMask": [
+                "player"
+              ],
+              "__collapse": false
+            },
+            "id": "09f5269a-3035-4c8f-85c5-a7926c2b3f60"
+          },
+          {
+            "command": "EVENT_ACTOR_SET_ANIMATION_SPEED",
+            "args": {
+              "actorId": "640f0fe1-c4b6-4cfd-b8c9-2a6a8d861fb0",
+              "speed": 15
+            },
+            "id": "4b639c79-0bc6-4a46-a9a7-225842476648"
+          }
+        ],
+        "false": []
+      },
+      "id": "b7306532-7c06-4cdb-ad5f-0ebb68814e86"
+    }
+  ],
+  "leaveScript": [
+    {
+      "command": "EVENT_ACTOR_SET_ANIMATION_SPEED",
+      "args": {
+        "actorId": "640f0fe1-c4b6-4cfd-b8c9-2a6a8d861fb0",
+        "speed": 255
+      },
+      "id": "256b14cc-f21e-46fd-9334-f04d4ef7d556"
+    },
+    {
+      "command": "EVENT_ACTOR_SET_FRAME",
+      "args": {
+        "actorId": "640f0fe1-c4b6-4cfd-b8c9-2a6a8d861fb0",
+        "frame": {
+          "type": "number",
+          "value": 0
+        }
+      },
+      "id": "437991a5-bf9c-43e1-b087-83afcdbe4eca"
+    }
+  ],
+  "_index": 3
+}

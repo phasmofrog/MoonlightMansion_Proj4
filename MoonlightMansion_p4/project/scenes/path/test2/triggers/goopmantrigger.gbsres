@@ -1,0 +1,87 @@
+{
+  "_resourceType": "trigger",
+  "id": "d5e498b0-291d-48da-a16a-68264670eb8d",
+  "name": "GoopmanTrigger",
+  "prefabId": "",
+  "x": 10,
+  "y": 30,
+  "symbol": "trigger_58",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_IF_ACTOR_RELATIVE_TO_ACTOR",
+      "args": {
+        "actorId": "player",
+        "operation": "down",
+        "otherActorId": "3aa2910c-8127-4b9a-961d-15a942d61fcd",
+        "__collapseElse": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "projectile",
+              "spriteSheetId": "ec0f660e-c420-43ee-9d1e-6d8e9f320213",
+              "spriteStateId": "",
+              "actorId": "3aa2910c-8127-4b9a-961d-15a942d61fcd",
+              "x": 0,
+              "y": 0,
+              "directionType": "direction",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 255,
+              "lifeTime": 1,
+              "initialOffset": 0,
+              "loopAnim": true,
+              "destroyOnHit": true,
+              "collisionGroup": "1",
+              "collisionMask": [
+                "player"
+              ]
+            },
+            "id": "9969fcba-d85f-4b41-a9fa-afd6a3c908d9"
+          },
+          {
+            "command": "EVENT_ACTOR_SET_ANIMATION_SPEED",
+            "args": {
+              "actorId": "3aa2910c-8127-4b9a-961d-15a942d61fcd",
+              "speed": 15
+            },
+            "id": "20f4f2cd-ac18-4bf8-b638-cccb2f841626"
+          }
+        ],
+        "false": []
+      },
+      "id": "3471e266-c804-41b4-91a3-b1e38183d922"
+    }
+  ],
+  "leaveScript": [
+    {
+      "command": "EVENT_ACTOR_SET_ANIMATION_SPEED",
+      "args": {
+        "actorId": "3aa2910c-8127-4b9a-961d-15a942d61fcd",
+        "speed": 255
+      },
+      "id": "b1d6b435-acfd-455e-96e5-4cbedb28ca09"
+    },
+    {
+      "command": "EVENT_ACTOR_SET_FRAME",
+      "args": {
+        "actorId": "3aa2910c-8127-4b9a-961d-15a942d61fcd",
+        "frame": {
+          "type": "number",
+          "value": 0
+        }
+      },
+      "id": "4677e73b-ee05-44ed-9985-a9a3fe8f2126"
+    }
+  ],
+  "_index": 1
+}

@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "e4c68b86-3210-4bdd-9ed8-56ba5803711d",
+  "name": "KingWorm",
+  "symbol": "sprite_kingworm",
+  "states": [
+    {
+      "id": "628736ca-8690-4103-835c-2ddec0fbe87c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "1f054c1b-9fca-4c15-a020-d7102ea037ad",
+          "frames": [
+            {
+              "id": "92935b57-169e-48c3-9315-644f3f840513",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "478be8b3-ac34-41e9-bbfa-2d68a8cffdd8",
+          "frames": [
+            {
+              "id": "a02c82a7-652f-4abf-a1cf-55e28a417789",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f1175b7-85e4-4649-8b18-94a7aa938364",
+          "frames": [
+            {
+              "id": "99cb08aa-0843-4ea4-99e1-22a04ca8acfe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9c1ab933-5fcf-44e7-98c1-c15059eef8ca",
+          "frames": [
+            {
+              "id": "c356d2cb-58c3-4058-b24b-b7b2683add05",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b0b135cc-baec-4d68-9bd6-ea1d44d36620",
+          "frames": [
+            {
+              "id": "8f8c3c6c-9623-4795-8628-1c8dc239bf8b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa9163e5-e915-4bc1-b2d1-3578a77b99d3",
+          "frames": [
+            {
+              "id": "8b527827-0ed5-47e2-ad9c-0a5fe23f9d98",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5011c19e-425a-401b-82d4-155932ffc52d",
+          "frames": [
+            {
+              "id": "7fd15687-4c9d-4046-aae2-9b1bb67b2d30",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "79113f9a-058e-49b6-ba7b-6faf218f0976",
+          "frames": [
+            {
+              "id": "36f4d91e-1f95-4323-b40c-c85cff466c1e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "KingWorm.png",
+  "width": 64,
+  "height": 32,
+  "checksum": "5d37fc775f75de7251c8fb037bf2afe3ded5dc3b"
+}
