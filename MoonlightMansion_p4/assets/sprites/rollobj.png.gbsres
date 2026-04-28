@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "79751e04-9d34-4d66-a331-583b63346087",
+  "name": "rollobj",
+  "symbol": "sprite_rollobj",
+  "states": [
+    {
+      "id": "91304534-febf-47e3-8200-f64c1b58b1ba",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "f6ab070d-5dd6-4689-81fe-dae2fcfa5615",
+          "frames": [
+            {
+              "id": "138cfe7e-694c-40c9-ae2d-d75f561d6d57",
+              "tiles": [
+                {
+                  "id": "97478235-cacf-4a6c-87b9-1fc8d70f7ee2",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "fa3ee60a-c956-4193-b504-cedf0a76b4be",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "875b0286-61db-4068-b763-ef286985f821",
+          "frames": [
+            {
+              "id": "dfe1d8a5-f9f7-44e9-9f7a-20188dc43657",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cb5090f2-142b-4775-8a1a-ce0d4d4ad46e",
+          "frames": [
+            {
+              "id": "0b481532-0133-47ff-bef5-49e00071c979",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d644e49f-fb8f-43ff-99b6-c2b0a6012f7b",
+          "frames": [
+            {
+              "id": "e879d1b4-8d89-400b-ad7b-a3b1b71fecc1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e79594b9-6f9d-4f3a-b743-8b591f4cb73c",
+          "frames": [
+            {
+              "id": "58c5e1b7-3004-4ec9-a431-99e5f247f78b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "df1ccd30-64b3-4807-aca9-1b62a2dbdacf",
+          "frames": [
+            {
+              "id": "a284b40e-dd99-4305-b02b-52c48e9c9462",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "74c9ea79-6e59-41e5-aed8-7f2c034ae8f8",
+          "frames": [
+            {
+              "id": "d518c4bf-bc54-43b0-aeed-a023cf60bf6d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4420ba43-38eb-4407-8855-c1245885ee76",
+          "frames": [
+            {
+              "id": "4f3f3ad3-826c-410f-b4bd-20fe0f7840a1",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "rollobj.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "bb5d36d30795ceb253b89cd0aded087e4e8dec45"
+}
