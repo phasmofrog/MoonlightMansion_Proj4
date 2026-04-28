@@ -179,10 +179,11 @@
               "operator": "<=",
               "distance": {
                 "type": "number",
-                "value": 2
+                "value": 3
               },
               "otherActorId": "fafed295-c771-4049-b753-86e528d98154",
-              "__collapseElse": true
+              "__collapseElse": true,
+              "__collapse": false
             },
             "children": {
               "true": [
@@ -194,7 +195,7 @@
                       "type": "direction",
                       "value": "right"
                     },
-                    "__collapseElse": false,
+                    "__collapseElse": true,
                     "__collapse": false
                   },
                   "children": {

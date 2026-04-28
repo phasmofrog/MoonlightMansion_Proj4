@@ -1,7 +1,7 @@
 {
   "_resourceType": "actor",
   "id": "fafed295-c771-4049-b753-86e528d98154",
-  "name": "",
+  "name": "RollObj",
   "frame": 0,
   "animate": false,
   "spriteSheetId": "79751e04-9d34-4d66-a331-583b63346087",
@@ -24,6 +24,6 @@
   "hit3Script": [],
   "coordinateType": "tiles",
   "x": 25,
-  "y": 30,
+  "y": 29,
   "_index": 2
 }
