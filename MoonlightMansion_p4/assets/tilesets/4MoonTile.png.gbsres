@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "2b667576-7864-4c74-b0bd-6982a1078cdc",
+  "name": "4MoonTile",
+  "symbol": "tileset_4moontile",
+  "width": 160,
+  "height": 144,
+  "imageWidth": 1280,
+  "imageHeight": 1152,
+  "filename": "4MoonTile.png"
+}

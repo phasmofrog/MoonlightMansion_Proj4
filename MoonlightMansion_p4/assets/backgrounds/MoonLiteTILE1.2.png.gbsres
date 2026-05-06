@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "38a340c8-dcb8-4a70-acdf-15e6fbd671f8",
+  "name": "MoonLiteTILE1.2",
+  "symbol": "bg_moonlitetile1_2",
+  "tileColors": "",
+  "filename": "MoonLiteTILE1.2.png",
+  "width": 80,
+  "height": 36,
+  "imageWidth": 640,
+  "imageHeight": 288
+}

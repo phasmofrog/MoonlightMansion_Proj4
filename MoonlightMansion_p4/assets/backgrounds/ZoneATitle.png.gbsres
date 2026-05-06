@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "c2f5062b-2c9b-4c09-bd2b-7d715d5f61b0",
+  "name": "ZoneATitle",
+  "symbol": "bg_zoneatitle",
+  "tileColors": "",
+  "filename": "ZoneATitle.png",
+  "width": 64,
+  "height": 36,
+  "imageWidth": 512,
+  "imageHeight": 288
+}
