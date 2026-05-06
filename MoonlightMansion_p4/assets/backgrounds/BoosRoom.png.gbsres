@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f3e7a649-8476-4c07-9d63-1cf6fd595caf",
+  "name": "BoosRoom",
+  "symbol": "bg_boosroom",
+  "tileColors": "",
+  "filename": "BoosRoom.png",
+  "width": 64,
+  "height": 36,
+  "imageWidth": 512,
+  "imageHeight": 288
+}

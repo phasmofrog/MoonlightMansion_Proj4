@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "3fb525e7-5286-48b1-8402-6d9e8f7c0cfb",
+  "name": "CutOut",
+  "symbol": "bg_cutout",
+  "tileColors": "",
+  "filename": "CutOut.png",
+  "width": 160,
+  "height": 144,
+  "imageWidth": 1280,
+  "imageHeight": 1152
+}

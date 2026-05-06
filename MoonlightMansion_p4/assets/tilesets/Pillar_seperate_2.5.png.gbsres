@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "9f3a1a50-aca7-4fc3-9c7a-080a339e7921",
+  "name": "Pillar_seperate_2.5",
+  "symbol": "tileset_pillar_seperate_2_5",
+  "width": 160,
+  "height": 144,
+  "imageWidth": 1280,
+  "imageHeight": 1152,
+  "filename": "Pillar_seperate_2.5.png"
+}

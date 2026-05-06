@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f2f238c9-6d09-46ca-b22e-1fd41d629316",
+  "name": "Torn_blackout",
+  "symbol": "bg_torn_blackout",
+  "tileColors": "",
+  "filename": "Torn_blackout.png",
+  "width": 160,
+  "height": 144,
+  "imageWidth": 1280,
+  "imageHeight": 1152
+}
