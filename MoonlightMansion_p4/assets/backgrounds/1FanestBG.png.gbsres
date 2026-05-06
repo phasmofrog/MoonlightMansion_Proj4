@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "b38e4212-bc43-40b2-b391-26d8b1d3755e",
+  "name": "1FanestBG",
+  "symbol": "bg_1fanestbg",
+  "tileColors": "",
+  "filename": "1FanestBG.png",
+  "width": 64,
+  "height": 36,
+  "imageWidth": 512,
+  "imageHeight": 288
+}

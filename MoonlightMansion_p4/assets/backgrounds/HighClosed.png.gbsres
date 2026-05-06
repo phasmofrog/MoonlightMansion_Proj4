@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "2b8a77d2-dd2e-4410-a4f9-fad1f16c53d3",
+  "name": "HighClosed",
+  "symbol": "bg_highclosed",
+  "tileColors": "",
+  "filename": "HighClosed.png",
+  "width": 36,
+  "height": 18,
+  "imageWidth": 288,
+  "imageHeight": 144
+}

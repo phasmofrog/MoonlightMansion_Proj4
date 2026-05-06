@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "1d3d979b-6dcb-45a9-8282-a108da10907e",
+  "name": "HighOpen",
+  "symbol": "bg_highopen",
+  "tileColors": "",
+  "filename": "HighOpen.png",
+  "width": 36,
+  "height": 18,
+  "imageWidth": 288,
+  "imageHeight": 144
+}
