@@ -3,10 +3,10 @@
   "id": "bdb63402-0972-432d-8dc5-20b4523efa2f",
   "_index": 25,
   "name": "path/testbg_hallopen",
-  "backgroundId": "c2ed9fd6-5fcc-4644-976c-f3e164016791",
+  "backgroundId": "4d265393-9cff-48a9-a692-6ef8de58623f",
   "tilesetId": "",
-  "width": 36,
-  "height": 18,
+  "width": 32,
+  "height": 20,
   "type": "PLATFORM",
   "colorModeOverride": "none",
   "paletteIds": [
@@ -28,11 +28,11 @@
     "",
     ""
   ],
-  "collisions": "0fd+009+0f1b+009+0f1b+009+0f1b+005+0f1f+009+0f1b+009+0f1d+005+0f10+009f+0f5+00a0+0fe+007+0f1c+009+0fe+",
+  "collisions": "006b+0f13+00d+0f!0011+0f!00d+0f!0011+0f!00d+0f!0011+0f!00d+0f!0011+0f!00d+0f!0011+0f!002+0fc+0011+0f!001f+0f!001f+0f!001f+0f!001f+0f!001f+0f!001f+0f!002+0f1e+0062+",
   "autoFadeSpeed": 1,
   "symbol": "scene_26",
-  "x": 2936,
-  "y": 1184,
+  "x": 3376,
+  "y": 1408,
   "script": [
     {
       "id": "2552c01c-38b8-470c-b51e-e75b8bdc4199",

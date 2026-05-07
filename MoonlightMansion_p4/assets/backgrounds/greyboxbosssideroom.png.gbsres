@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "4d265393-9cff-48a9-a692-6ef8de58623f",
+  "name": "greyboxbosssideroom",
+  "symbol": "bg_greyboxbosssideroom",
+  "tileColors": "",
+  "filename": "greyboxbosssideroom.png",
+  "width": 32,
+  "height": 20,
+  "imageWidth": 256,
+  "imageHeight": 160
+}

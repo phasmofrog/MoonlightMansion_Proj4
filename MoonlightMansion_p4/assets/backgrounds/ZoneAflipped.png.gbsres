@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "e5285844-3ecd-40c3-bb91-740ce464d757",
+  "name": "ZoneAflipped",
+  "symbol": "bg_zoneaflipped",
+  "tileColors": "",
+  "filename": "ZoneAflipped.png",
+  "width": 64,
+  "height": 36,
+  "imageWidth": 512,
+  "imageHeight": 288
+}

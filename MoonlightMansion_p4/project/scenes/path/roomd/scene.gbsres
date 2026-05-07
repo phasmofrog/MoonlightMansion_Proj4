@@ -1,12 +1,12 @@
 {
   "_resourceType": "scene",
-  "id": "6fe1c656-0828-46ad-9313-5a2d65e252ac",
-  "_index": 21,
-  "name": "path/testbg_bc",
-  "backgroundId": "989b7ec3-86a7-480d-9e22-d3938dd6de8b",
+  "id": "55e0a8be-445b-4284-946e-3d302bd9283b",
+  "_index": 23,
+  "name": "path/roomd",
+  "backgroundId": "bf8dd970-2ea4-4459-8050-1f5a83acd4c8",
   "tilesetId": "",
-  "width": 54,
-  "height": 36,
+  "width": 36,
+  "height": 32,
   "type": "PLATFORM",
   "colorModeOverride": "none",
   "paletteIds": [
@@ -28,14 +28,14 @@
     "",
     ""
   ],
-  "collisions": "006a+0f2+0027+0ff+0027+0f!0035+0f!0035+0f!0035+0f!0035+0f!0035+0f!0035+0f!0023+0f13+00d+0f!0015+0f!001f+0f!0015+0f!001f+0f!0015+0f!001f+0f!0015+0f!001f+0f!0015+0f!0016+0fa+0015+0f!0011+0f6+001e+0f!0016+0f2+001d+0f!0016+0f2+001d+0f!002+0f7+00d+0f!001e+0f!0016+0f!001e+0f!0016+0f!001e+0f!0016+0f!001e+0f!0016+0f!009+0f19+008+0fc+002a+0f!00a+0f!002a+0f!0035+0f!0035+0f!0031+0f5+0035+0f!0035+0f!0035+0f!0035+0f!0014+0f22+004a+",
+  "collisions": "002+0f!004+0f!001e+0f!004+0f!001e+0f!004+0f!001e+0f!004+0f!001e+0f!004+0f!001e+0f!004+0f2+001d+0f!004+0f2+001d+0f!004+0f2+001d+0f!004+0f18+007+0f!001b+0f!007+0f!001b+0f!007+0f!001b+0f!007+0f!001b+0f6+002+0f!0023+0f!009+0f5+0015+0f6+001e+0f!0023+0f!0023+0f!00f+0f4+0010+0f!0023+0f!0023+0f!00a+0f17+002+0f!00a+0f!00d+0f!006+0f2+002+0f!003+0f4+003+0f!00d+0f!00a+0f!00a+0f!00d+0f!00a+0f!00a+0f!00d+0f!00a+0f!0018+0f!00a+0f!0018+0f!00a+0f!0018+0f!009+0f16+004+0f!001e+0f!004+0f!001e+0f!004+0f!008+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_22",
-  "x": 2792,
-  "y": 784,
+  "symbol": "scene_24",
+  "x": 2688,
+  "y": 976,
   "script": [
     {
-      "id": "ed68686f-7bfe-4548-9cce-41790fe9476b",
+      "id": "35bbff6f-3cb5-4e0d-aef7-07ddc2611d5f",
       "command": "EVENT_CALL_CUSTOM_EVENT",
       "args": {
         "customEventId": "bc9f67e9-b6f2-4216-b8b6-63505f3b7118",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": "eda5e85a-a54e-4113-98ed-2e10cef077a7",
+      "id": "dcbc1a88-d97c-419d-a8a3-c2682248a6d2",
       "command": "EVENT_MUSIC_PLAY",
       "args": {
         "musicId": "9aac47ff-51d7-48bf-9f15-1ce01b3872a4",
@@ -102,7 +102,7 @@
                       "1"
                     ]
                   },
-                  "id": "340d6a78-b6ce-4990-adff-d733033128be"
+                  "id": "2470ca50-667e-4f27-8736-94fe07dfd6fc"
                 }
               ],
               "false": [
@@ -132,15 +132,15 @@
                       "1"
                     ]
                   },
-                  "id": "fe8e0f6f-284e-4d20-b61e-f0a93e79b8a2"
+                  "id": "1c7fdfa4-2fcc-448e-a423-c497925a7d82"
                 }
               ]
             },
-            "id": "4695260d-b09c-4db2-8c82-ab3fede72413"
+            "id": "516039f1-515b-40cc-8796-c3e84b3d955e"
           }
         ]
       },
-      "id": "4c263afc-ef06-471b-b794-03fb08b8828d"
+      "id": "8914c59a-f0d0-4736-b170-79849f131ae5"
     }
   ],
   "playerHit1Script": [],

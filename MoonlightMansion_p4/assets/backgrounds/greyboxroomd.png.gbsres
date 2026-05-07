@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "bf8dd970-2ea4-4459-8050-1f5a83acd4c8",
+  "name": "greyboxroomd",
+  "symbol": "bg_greyboxroomd",
+  "tileColors": "",
+  "filename": "greyboxroomd.png",
+  "width": 36,
+  "height": 32,
+  "imageWidth": 288,
+  "imageHeight": 256
+}

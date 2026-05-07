@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "0615079c-0e2a-4fa5-895b-4f8999ba11f9",
+  "name": "PawHalf",
+  "symbol": "sprite_pawhalf",
+  "states": [
+    {
+      "id": "a296bf47-e63c-4d05-8e81-0b0f44e5254e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5a8b1e9c-a534-434f-9a8b-dd0ef80c6224",
+          "frames": [
+            {
+              "id": "eb40d661-74f9-497d-8d35-07d3f1ef0d25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "93892fa7-c0b5-4ca7-911c-f4a7aeb24e87",
+          "frames": [
+            {
+              "id": "463868db-d9ad-4492-932a-2dda5e2fff34",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "640f5e9c-e2f3-4508-9706-99cfd9251969",
+          "frames": [
+            {
+              "id": "26a13d79-1216-4083-8408-360b8280fb61",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9f83661c-5810-45d3-b799-507c6770dc90",
+          "frames": [
+            {
+              "id": "f99e87d0-71ac-4c11-b4c5-c400e8990bba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "89c653a0-dafb-4558-8eb3-83cc8bb81ec9",
+          "frames": [
+            {
+              "id": "0082bf02-76ef-4451-b9cf-2707627258fa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "357830dd-9291-4934-a037-842e35b8bf9f",
+          "frames": [
+            {
+              "id": "e18fb84a-57b3-4f30-96eb-55353c7b1d64",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec38e008-fe8e-44e2-a786-7717654c475a",
+          "frames": [
+            {
+              "id": "71b9fc10-a93e-4949-8b22-d0e8b36df009",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "96bad157-ea94-4bc9-9434-e146fed95745",
+          "frames": [
+            {
+              "id": "25c1ba03-cdbd-4285-8272-d0edf9dbd7dd",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "PawHalf.png",
+  "width": 32,
+  "height": 32,
+  "checksum": "f0951a52e94801c14079cff6bcb28869a50c70d4"
+}
